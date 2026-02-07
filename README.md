@@ -1,2 +1,2 @@
-# GeoAI-Core
-GeoAI-Core: Geoscience AI for Computational Research
+# GeoAI-CoRe
+ Artificial Intelligence in Geoscience Computaional Research
